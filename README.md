@@ -2,6 +2,8 @@
 
 ## **Today's Main Topic:** *The Growth Mindset*
 
+### **Summary**
+
 There are two ways of thinking about intelligence;
 
 - An innate fixed quantity that you are born with at birth
@@ -25,10 +27,10 @@ The journey of 1000 miles begins with a single step. You many not be able to do 
 
 <img src="/Arthur.png" alt="Photo of Benjamin Small" title="Most Recent photo of Benjamin Small" height="200">
 
-#### **Bio**
+### **Bio**
 
 Benjamin Small is a New York Times Best Selling Author of; *Get off you Butt and Do Something*, *Your Power Comes from Within*, and *Little Bunny Teeton's great American Adventure*. He also enjoys underwater basket weaving in his free time and spending time with his other animal friends.
 
-#### **Contact Info**
+### **Contact Info**
 
 Benjamin Small can be reached in person at the alderwood mall of I-405 Mon-Fri 'til 8:00, Saturdays and Sundays 'til 9:00 or online and ShaneCo.com. Shane Company, now YOU have a FRIEND in the diamond business!
