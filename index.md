@@ -3,7 +3,7 @@
 1. [The Growth Mindset](GrowthMindset.md)
 2. [Markdown Syntax](MarkdownGuide.md)
 3. [Git Hub Pages](Pages.md)
-4. [The Coder's Computer](Computer.md)
+4. [The Coder's Computer](CodersComputer.md)
 
 ---
 
