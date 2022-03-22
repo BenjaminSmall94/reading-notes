@@ -35,10 +35,10 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
 
 ## Other Formatting Examples
 
-`Format can be **Bold**, *Italicised*, or ~Striked Through~`
+`Format can be **Bold**, *Italicised*, or ~~Striked Through~~`
 
 ## Output
 
-Format can be **Bold**, *Italicised*, or ~Striked Through~
+Format can be **Bold**, *Italicised*, or ~~Striked Through~~
 
 [1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
