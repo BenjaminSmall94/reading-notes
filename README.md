@@ -12,7 +12,7 @@ There are two ways of thinking about intelligence;
 All your life from the time you are little you learn about rules and limitations. But when you realize that most of these limitaitons are self-impposed you begin to realize you full potential.
 
 Say goodbye to self-doubt, say goodbye to imposter syndrome. Your destiny is in your hends. Your intelligence and ability can grow and expand nearly infinitely.  
-*This is the essence of the growth mindset.*  
+*Believe in the* ***Growth Mindset.***  
 The journey of 1000 miles begins with a single step. You many not be able to do everything now, but soon you will. You can do this and you do deserve to be here. Believe in yourself and you ability to grow.
 
 ### **Things to remind yourself when you struggle with having a growth mindset.**
