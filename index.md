@@ -1,4 +1,4 @@
-# ***Reading-Notes***
+# **Reading-Notes**
 
 1. [The Growth Mindset](GrowthMindset.md)
 2. [Markdown Syntax](MarkdownGuide.md)
