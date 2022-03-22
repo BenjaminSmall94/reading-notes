@@ -27,7 +27,7 @@ The journey of 1000 miles begins with a single step. You many not be able to do 
 
 ---
 
-<img src="/Arthur.png" alt="Photo of Benjamin Small" title="Most Recent photo of Benjamin Small" height="200">
+<img src="https://github.com/BenjaminSmall94/reading-notes/blob/main/Arthur.png" alt="Photo of Benjamin Small" title="Most Recent photo of Benjamin Small" height="200">
 
 ### **Bio**
 
