@@ -21,7 +21,7 @@ The journey of 1000 miles begins with a single step. You many not be able to do 
 | I made a mistake | That proves you've put in effort, what effort is helpful next? |
 | My classmate can do it, why can't I | There was a time they couldn't either, what did they do to get where they are now? |
 
-<img src="Arthur.png" alt="Photo of Benjamin Small" title="Most Recent photo of Benjamin Small height="200">
+<img src="/reading-notes/Arthur.png" alt="Photo of Benjamin Small" title="Most Recent photo of Benjamin Small height="200">
 
 #### **Bio**
 
