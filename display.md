@@ -7,5 +7,5 @@ While I think that this display fire should be the one that is being put on gh-p
 
 1. README files are for explaining what a piece of code is for
 2. Other files are for dsiplaying.
-  - This file is for displaying
+    - This file is for displaying
 3. I rest my case
