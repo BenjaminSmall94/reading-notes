@@ -1,5 +1,7 @@
 # **The Growth Mindset**
 
+[Home](index.md)
+
 ## **Summary**
 
 There are two ways of thinking about intelligence;
