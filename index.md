@@ -10,8 +10,10 @@
 
 ### **Bio**
 
-Benjamin Small is a New York Times Best Selling Author of; *Get off you Butt and Do Something*, *Your Power Comes from Within*, and *Little Bunny Teeton's great American Adventure*. He also enjoys underwater basket weaving in his free time and spending time with his other animal friends.
+Benjamin Small is a 2016 University of Washington ISE alumni who has always been interested in coding. However, after University he spent 5 years on active duty orders as an Army Aviation Officer and Blackhawk UH-60 pilot. After completing his time of full time military service, capped off with a year long overseas deployment, he finally decided to pursue his passion of computer coding and attend a Seattle Based Coding Bootcamp "Code Fellows". He is a hyper-focused, detail oriented, clever minded individual who does not shy away from hard tasks!
+
+He loves trying new food, playing team and individual sports (including disc gold and ping pong!), skiing awesome mountains, and traveling the world. He is married to his College Sweetheart Andreina Small (Gutierrez), and they live in a small house in the woods in Federal Way, Wa.
 
 ### **Contact Info**
 
-Benjamin Small can be reached in person at the Alderwood Mall off of I-405 Mon-Fri 'til 8:00, Saturdays and Sundays 'til 9:00 or online and ShaneCo.com. **Shane Company**, now *YOU* have a *FRIEND* in the diamond business!
+Benjamin Small can be reached by phone at *253-339-9261* or via email at <smallbenjamin94@gmail.com>!
