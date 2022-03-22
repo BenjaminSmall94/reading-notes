@@ -16,4 +16,4 @@ He loves trying new food, playing team and individual sports (including disc gol
 
 ### **Contact Info**
 
-Benjamin Small can be reached by phone at *253-339-9261* or via email at <smallbenjamin94@gmail.com>!
+Benjamin Small can be reached by phone at *253-339-9261* or via email at <smallbenjamin94@gmail.com>
