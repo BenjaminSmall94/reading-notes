@@ -21,7 +21,7 @@ The journey of 1000 miles begins with a single step. You many not be able to do 
 | I made a mistake | That proves you've put in effort, what effort is helpful next? |
 | My classmate can do it, why can't I | There was a time they couldn't either, what did they do to get where they are now? |
 
-! [Benjamin Small: Author] (https://en.wikipedia.org/wiki/Arthur_Read#/media/File:Arthur_Read.svg)
+![Benjamin Small: Author] (https://en.wikipedia.org/wiki/Arthur_Read#/media/File:Arthur_Read.svg) "Benjamin Small's most recent photo"
 
 #### **Bio**
 
@@ -29,4 +29,4 @@ Benjamin Small is a New York Times Best Selling Author of; *Get off you Butt and
 
 #### **Contact Info**
 
-Benjamin Small can be reached in person at the alderwood mall of I-405 Mon-Fri 'til 8:00, Saturdays and Sundays 'til 9:00 or online and ShaneCo.com. Shane company, now YOU have a FRIEND in the diamond business!
+Benjamin Small can be reached in person at the alderwood mall of I-405 Mon-Fri 'til 8:00, Saturdays and Sundays 'til 9:00 or online and ShaneCo.com. Shane Company, now YOU have a FRIEND in the diamond business!
