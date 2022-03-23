@@ -2,7 +2,7 @@
 
 [Home](index.md)
 
-## HTML
+## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 Since it's inception in the early 90's, HTML has defined life on the web. HyperText Markup Language is the code that is used to structure a web page and its content. It is based on elements which are defined by their corresponding tags, which are frequently nested within eachother.
 
@@ -26,10 +26,10 @@ Examples of Tags:
 - `<div></div>`
 - `<span></<spand>`
 
-## Semantics
+## [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
 Within any language there are multiple ways to achieve the same end results. It is important to use proper styling and convemtions in order to create the best, most searchable, cross-compatible, and easiest to interpret code and corresponding webpage possible. In HTML you should use the the element the most closesly corresponds with the piece of information you can convey, regardless of standard or final formatting.
 
-## Wire Diagrams
+## [Wire Diagrams](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
 
 Wire Diagrams are and quick and easy sketch out the look and flow of a website before embarking on the arduous journey of actaully coding the website. The easiest way to make a wire diagram is with paper and a writing utensil (eg a Sharpie). However depending on the complexity of the website, and the number of people working on a project, it may be beneficial to use a wire diagram software like [UXPin](https://www.uxpin.com/), [InVision](http://www.invisionapp.com/), or [Wireframe.cc](https://wireframe.cc/). These will give you a more detailed and shareable version of the wire diagram to synchronize efforts prior to actually coding the website.
