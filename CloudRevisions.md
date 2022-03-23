@@ -20,10 +20,10 @@
 
     The DVCS allows developers to mirror or "clone" working repositories onto their computer and make edits and then re-upload the revised files to the central repository. This gives redundancy to protect from server corruption and allows developers to continue work during times were the server or internet may not be working.
 
-    ## Git and GitHub
+## Git and GitHub
 
-    Git is a VCS that enables developers to track changes a versions to their code in real time. GitHub is an online resource that allows developers to share their repositories with the world and allows for collaboration with anyone you wish to be able to see your work.
+Git is a VCS that enables developers to track changes a versions to their code in real time. GitHub is an online resource that allows developers to share their repositories with the world and allows for collaboration with anyone you wish to be able to see your work.
 
-    ### Add, Commit, Push
+### Add, Commit, Push
 
-    Git and GitHub come with various commands to describe and command actions to be performed in the course of editing and saving versions of your code. The most important are the three Add, Commit, and Push in sequence. These let you choose which files to send to the working branch, fix them to the working branch, and then upload them to the central online repository.
+ Git and GitHub come with various commands to describe and command actions to be performed in the course of editing and saving versions of your code. The most important are the three Add, Commit, and Push in sequence. These let you choose which files to send to the working branch, fix them to the working branch, and then upload them to the central online repository.
