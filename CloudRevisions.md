@@ -26,4 +26,4 @@ Git is a VCS that enables developers to track changes a versions to their code i
 
 ### Add, Commit, Push
 
- Git and GitHub come with various commands to describe and command actions to be performed in the course of editing and saving versions of your code. The most important are the three Add, Commit, and Push in sequence. These let you choose which files to send to the working branch, fix them to the working branch, and then upload them to the central online repository.
+Git and GitHub come with various commands to describe and command actions to be performed in the course of editing and saving versions of your code. The most important are the three Add, Commit, and Push in sequence. These let you choose which files to send to the working branch, fix them to the working branch, and then upload them to the central online repository.
