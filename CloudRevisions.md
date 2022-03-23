@@ -2,7 +2,7 @@
 
 ## Version Control Systems
 
-> Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified.
+> A ***Version Control System*** is a protocol that allows you to revisit various versions of a file or set of files by recording changes. Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. By utilizing a Version Control System (VCS), mistakes with files can easily be rectified.
 
 ### Progression Version Control
 
@@ -18,7 +18,7 @@
 
     The next improvent involving VCS's was the implementation of Distributed Version Control systems. The problem with the centralized version control system is that there was a single point of failure in the server which held all the files. Sure there were likely backups on the system but if the server went down, or was corrupted, it would lead to catastrophic results for the team and their work.
 
-    The DVCS allows developers to mirror or "clone" working repositories onto their computer and make edits and then re-upload the revised files to the central repository. This gives redundancy to protect from server corruption and allows developers to continue work during times were the server or internet may not be working.
+    The DVCS allows developers to mirror or *clone* working repositories onto their computer and make edits and then re-upload the revised files to the central repository. This gives redundancy to protect from server corruption and allows developers to continue work during times were the server or internet may not be working.
 
 ## Git and GitHub
 
@@ -26,4 +26,4 @@ Git is a VCS that enables developers to track changes a versions to their code i
 
 ### Add, Commit, Push
 
-Git and GitHub come with various commands to describe and command actions to be performed in the course of editing and saving versions of your code. The most important are the three Add, Commit, and Push in sequence. These let you choose which files to send to the working branch, fix them to the working branch, and then upload them to the central online repository.
+*Git* and *GitHub* come with various commands to describe and command actions to be performed in the course of editing and saving versions of your code. The most important are the three **Add**, **Commit**, and **Push** in sequence. These let you choose which files to send to the working branch, fix them to the working branch, and then upload them to the central online repository.
