@@ -1,4 +1,4 @@
-# Revisions and the Clound
+# Revisions and the Cloud
 
 [Home](index.md)
 
