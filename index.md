@@ -6,6 +6,7 @@
 4. [The Coder's Computer](CodersComputer.md)
 5. [Revisions and the Cloud](CloudRevisions.md)
 6. [HTML, Semantics, and Wire Diagrams](html-wires-semantics.md)
+7. [CSS](css.md)
 
 ---
 
