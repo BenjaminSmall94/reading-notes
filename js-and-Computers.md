@@ -23,15 +23,15 @@ The Javascript interpreter handles all the data-typing and allows the developed 
 
 JavaScript variables consist as primitive values and objects.
 
-- Primitive values (immutable datum represented directly at the lowest level of the language)
-    - Boolean type
-    - Null type
-    - Undefined type
-    - Number type
-    - BigInt type
-    - String type
-    - Symbol type
-- Objects (more complex object that are often user defined)
+- Primitive values (immutable datum represented directly at the lowest level of the language).
+  - Boolean type
+  - Null type
+  - Undefined type
+  - Number type
+  - BigInt type
+  - String type
+  - Symbol type
+- Objects (more complex object that are often user defined)
 
 ## Computer Basics
 
@@ -50,4 +50,4 @@ Modern Computers do all four of these tasks via electronic signals encoded and d
 
 ### Modern Coding
 
- Thankfully, coding nowadays has does not involve manually entering 1's and 0's into a computer. Generation of coders before us have constructed frameworks using these tedious methods so that current developers can write code in text that resembles intelligible speech or literature. These programming languages are built on programs themselves that either compile or interpret this high-level code into bite code which is intelligible to a computer.
+Thankfully, coding nowadays has does not involve manually entering 1's and 0's into a computer. Generation of coders before us have constructed frameworks using these tedious methods so that current developers can write code in text that resembles intelligible speech or literature. These programming languages are built on programs themselves that either compile or interpret this high-level code into bite code which is intelligible to a computer.
