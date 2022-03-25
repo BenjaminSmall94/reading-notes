@@ -7,6 +7,7 @@
 5. [Revisions and the Cloud](CloudRevisions.md)
 6. [HTML, Semantics, and Wire Diagrams](html-wires-semantics.md)
 7. [CSS](css.md)
+8. [Javascript and Computer Basics](js-and-Computers.md)
 
 ---
 
