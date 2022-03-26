@@ -1,5 +1,7 @@
 # Javascript 2
 
+[Home](index.md)
+
 ## Control Flow
 
 Javascript like the majority of other modern programming langauges runs sequentially from the top to bottom, left to right. However frequently there are various control structures (eg loops or conditionals) that will cause certain lines or sets of lines to be repeated or skipped.
@@ -58,4 +60,4 @@ Javascript implements functions. These are a way to factor your code to decrease
 | **Operator** | **Description** |
 | ------------ | --------------- |
 | typeof | Returns the type of a variable |
-| instance of | Returns true if an object is an instance of another object |
+| instanceof | Returns true if an object is an instance of another object |

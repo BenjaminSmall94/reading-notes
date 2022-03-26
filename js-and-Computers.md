@@ -1,4 +1,4 @@
-# Javascript and How Computers Work
+# Javascript and Computer Basics
 
 [Home](index.html)
 

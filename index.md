@@ -8,6 +8,7 @@
 6. [HTML, Semantics, and Wire Diagrams](html-wires-semantics.md)
 7. [CSS](css.md)
 8. [Javascript and Computer Basics](js-and-Computers.md)
+9. [Javascript 2](Javascript2.md)
 
 ---
 
