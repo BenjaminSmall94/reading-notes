@@ -9,6 +9,7 @@
 7. [CSS](css.md)
 8. [Javascript and Computer Basics](js-and-Computers.md)
 9. [Javascript 2](Javascript2.md)
+10. [Operators and Loops](Operators-Loops.md)
 
 ---
 
