@@ -1,4 +1,24 @@
-# **Reading-Notes**
+# **Code Fellows Reading Notes**
+
+## Code 201
+
+1. Assignment #1
+2. Assignment #2
+3. Assignment #3
+4. Assignment #4
+5. Assignment #5
+6. Assignment #6
+7. Assignment #7
+8. Assignment #8
+9. Assignment #9
+10. Assignment #10
+11. Assignment #11
+12. Assignment #12
+13. Assignment #13
+14. Assignment #14
+15. Assignment #15
+
+## Code 102
 
 1. [The Growth Mindset](GrowthMindset.md)
 2. [Markdown Syntax](MarkdownGuide.md)
@@ -17,7 +37,7 @@
 
 ### **Bio**
 
-Benjamin Small is a 2016 University of Washington ISE alumni who has always been interested in coding. However, after University he spent 5 years on active duty orders as an Army Aviation Officer and Blackhawk UH-60 pilot. After completing his time of full time military service, capped off with a year long overseas deployment, he finally decided to pursue his passion of computer coding and attend a Seattle Based Coding Bootcamp "Code Fellows". He is a hyper-focused, detail oriented, clever minded individual who does not shy away from hard tasks!
+Benjamin Small is a 2016 University of Washington ISE alumni who has always been interested in coding. However, after University he spent 5 years on active duty orders as an Army Aviation Officer and Blackhawk UH-60 pilot. After completing his time of full time military service, capped off with a year long overseas deployment, he finally decided to pursue his passion of computer coding and attend a Seattle Based Coding Bootcamp *Code Fellows*. He is a hyper-focused, detail oriented, clever minded individual who does not shy away from hard tasks!
 
 He loves trying new food, playing team and individual sports (including disc gold and ping pong!), skiing awesome mountains, and traveling the world. He is married to his College Sweetheart Andreina Small (Gutierrez), and they live in a small house in the woods in Federal Way, Wa.
 
