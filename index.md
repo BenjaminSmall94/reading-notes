@@ -2,7 +2,7 @@
 
 ## Code 201
 
-1. Assignment #1
+1. [Class 1](Code201/Class-01.md)
 2. Assignment #2
 3. Assignment #3
 4. Assignment #4
