@@ -20,20 +20,20 @@
 
 ## Code 102
 
-1. [The Growth Mindset](GrowthMindset.md)
-2. [Markdown Syntax](MarkdownGuide.md)
-3. [Git Hub Pages](Pages.md)
-4. [The Coder's Computer](CodersComputer.md)
-5. [Revisions and the Cloud](CloudRevisions.md)
-6. [HTML, Semantics, and Wire Diagrams](html-wires-semantics.md)
-7. [CSS](css.md)
-8. [Javascript and Computer Basics](js-and-Computers.md)
-9. [Javascript 2](Javascript2.md)
-10. [Operators and Loops](Operators-Loops.md)
+1. [The Growth Mindset](Code102/GrowthMindset.md)
+2. [Markdown Syntax](Code102/MarkdownGuide.md)
+3. [Git Hub Pages](Code102/Pages.md)
+4. [The Coder's Computer](Code102/CodersComputer.md)
+5. [Revisions and the Cloud](Code102/CloudRevisions.md)
+6. [HTML, Semantics, and Wire Diagrams](Code102/html-wires-semantics.md)
+7. [CSS](Code102/css.md)
+8. [Javascript and Computer Basics](Code102/js-and-Computers.md)
+9. [Javascript 2](Code102/Javascript2.md)
+10. [Operators and Loops](Code102/Operators-Loops.md)
 
 ---
 
-![Photo of Benjamin Small](Headshot.jpeg "Sexy Photo of Benjamin Small")
+![Photo of Benjamin Small](images/Headshot.jpeg "Sexy Photo of Benjamin Small")
 
 ### **Bio**
 
