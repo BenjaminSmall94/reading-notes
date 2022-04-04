@@ -1,4 +1,4 @@
-# Class 1 Reading Notes
+# Class 1: HTML, CSS, Javascript Refresher
 
 [Home](../index.md)
 
