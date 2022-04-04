@@ -1,6 +1,6 @@
 # Git Hub Pages
 
-[Home](index.md)
+[Home](../index.md)
 
 ## Overview - Coder Jargon
 

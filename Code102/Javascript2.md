@@ -1,6 +1,6 @@
 # Javascript 2
 
-[Home](index.md)
+[Home](../index.md)
 
 ## Control Flow
 

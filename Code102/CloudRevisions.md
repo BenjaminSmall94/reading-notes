@@ -1,6 +1,6 @@
 # Revisions and the Cloud
 
-[Home](index.md)
+[Home](../index.md)
 
 ## Version Control Systems
 

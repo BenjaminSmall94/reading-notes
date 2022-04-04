@@ -1,6 +1,6 @@
 # The Coder's Computer
 
-[Home](index.md)
+[Home](../index.md)
 
 ## Text Editors
 

@@ -1,6 +1,6 @@
 # HTML, Wire Diagrams, and Coding Semantics
 
-[Home](index.md)
+[Home](../index.md)
 
 ## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 

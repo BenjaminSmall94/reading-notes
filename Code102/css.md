@@ -1,6 +1,6 @@
 # CSS
 
-[Home](index.md)
+[Home](../index.md)
 
 ## What is CSS
 

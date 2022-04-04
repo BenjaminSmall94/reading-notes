@@ -1,6 +1,6 @@
 # Operators and Loops
 
-[Home](index.md)
+[Home](../index.md)
 
 ## Operators
 

@@ -1,6 +1,6 @@
 # Markdown Guide
 
-[Home](index.md)
+[Home](../index.md)
 
 ## What is Markdown
 

@@ -1,6 +1,6 @@
 # Javascript and Computer Basics
 
-[Home](index.html)
+[Home](../index.html)
 
 ## What is Javascript
 

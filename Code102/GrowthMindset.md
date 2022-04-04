@@ -1,6 +1,6 @@
 # **The Growth Mindset**
 
-[Home](index.md)
+[Home](../index.md)
 
 ## **Summary**
 
