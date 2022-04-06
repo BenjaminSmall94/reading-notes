@@ -2,8 +2,8 @@
 
 ## Code 201
 
-1. [Class 1](Code201/Class-01.md)
-2. Assignment #2
+1. [Class 1: HTML, CSS, Javascript Refresher](Code201/Class-01.md)
+2. [Class 2: More Web Programming Basics](Code201/Class-02.md)
 3. Assignment #3
 4. Assignment #4
 5. Assignment #5
