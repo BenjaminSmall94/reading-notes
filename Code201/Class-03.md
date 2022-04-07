@@ -1,4 +1,4 @@
-# HTML Lists, Control Flow with JS, and the CSS Box Model
+# HTML Lists, JS Control Flow, CSS Box Model
 
 [Home](../index.md)
 
