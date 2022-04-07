@@ -6,7 +6,7 @@
 
 ### Chapter 4: Links
 
-Links are the defining feature of a web page as they essentially enable a seemless experience fo "surfing the web". Links can link to a new website, to a different page in the same website, to a different part of the same webpage, or enable quick addressing of an email to a specific address. Links in HTML are created with and `<a>` tag and have a href attribute to determine the URL to associate with. When you link to another website the URL must be an absolute URL. Links to other pages on the same website use a relative URL.
+Links are the defining feature of a web page as they essentially enable a seamless experience fo "surfing the web". Links can link to a new website, to a different page in the same website, to a different part of the same webpage, or enable quick addressing of an email to a specific address. Links in HTML are created with and `<a>` tag and have a href attribute to determine the URL to associate with. When you link to another website the URL must be an absolute URL. Links to other pages on the same website use a relative URL.
 
 #### Relative URL Basics
 
@@ -34,7 +34,7 @@ Fundamentally CSS treats each HTML element as though it exists in its own specia
 
 #### Other Positioning features
 
-- The z-index attribute determines which element will take display prioirity when two elements are overlapping.
+- The z-index attribute determines which element will take display priority when two elements are overlapping.
 - The clear attribute can be used on floating elements to start a new line when paragraphs are different heights.
 
 #### Screen Sizes
@@ -43,7 +43,7 @@ Screen sizes can vary greatly in width as well as height! It is important to dev
 
 #### Fixed vs Liquid Layouts
 
-Fixed layouts allow a lot more specific control of the exact look of a page, however they may leave large "white space" to the sides of larger monitors, or be hard to read on high resolution "4k" screens. Also they can take up a lot more vertical space than liquid layouts. Liquid layouts are harder to design correctly and can lead to some unforseen and unintended layouts. However, if done well, it can increase readability on all devices.
+Fixed layouts allow a lot more specific control of the exact look of a page, however they may leave large "white space" to the sides of larger monitors, or be hard to read on high resolution "4k" screens. Also they can take up a lot more vertical space than liquid layouts. Liquid layouts are harder to design correctly and can lead to some unforeseen and unintended layouts. However, if done well, it can increase readability on all devices.
 
 ## JavaScript and JQuery
 
@@ -51,7 +51,7 @@ Fixed layouts allow a lot more specific control of the exact look of a page, how
 
 Functions contain a series of statements organized together to accomplish a specific task. Usually functions will take parameters as input, and produce a return value as output. A method is function that is part of an object. Objects are models of the real world comprised of methods and variables. JavaScript and the web browser come with several pre-defined Objects.
 
-Declaring a functions requires the function keyword, a name followed buy open and close parantheses containing necessary parameters (if any), and lastly a set of curly braces surrounding the lines of code to be accessed.
+Declaring a functions requires the function keyword, a name followed by open and close parentheses containing necessary parameters (if any), and lastly a set of curly braces surrounding the lines of code to be accessed.
 
 ### 6 Reasons for Pair Programming
 
@@ -59,4 +59,4 @@ Pair programming is the practice of two developers working together at a single 
 
 The roles are typically divided into a driver and a navigator. The driver is the one with hands on the keyboard managing the text editor, switching files, and actually writing the code. The navigator is guiding the driver with his words and has his mind on big picture things like determining the best algorithm for a specific task and searching for bugs and typos. They also can use a second workstation to work their Google Fu to answer any unknowns.
 
-As well as being a excellent leaerning tool for students it can also increase effeciency, encourage collaboration, provide an opportunity to learn from your peers, build social skills, prepare for technical interviews, and future job opportunities!
+As well as being an excellent learning tool for students it can also increase efficiency, encourage collaboration, provide an opportunity to learn from your peers, build social skills, prepare for technical interviews, and future job opportunities!
