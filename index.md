@@ -5,7 +5,7 @@
 1. [Class 1: HTML, CSS, Javascript Refresher](Code201/Class-01.md)
 2. [Class 2: More Web Programming Basics](Code201/Class-02.md)
 3. Assignment #3
-4. [HTML Links, JS Functions, and CSS Layout](Code201/Class-04.md)
+4. [Class 4: HTML Links, JS Functions, and CSS Layout](Code201/Class-04.md)
 5. Assignment #5
 6. Assignment #6
 7. Assignment #7
