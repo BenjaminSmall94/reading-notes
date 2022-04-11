@@ -1,5 +1,7 @@
 # Object Literals and the Document Object Model
 
+[Home](../index.md)
+
 ## Javascript and JQery
 
 ### Chapter 3 (Part 2): Object Literals
