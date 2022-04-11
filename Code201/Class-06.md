@@ -62,3 +62,7 @@ These methods will always return a nodeList even if they only find one item. In 
 #### Altering HTML
 
 When altering HTML you can either use the `innterHTML` property, or you can create objects manipulating the DOM model. Using the HTML direct can be faster an easier, but is less secure when in comes to user input.
+
+## Things I want to know more about
+
+I just want practice using the innerHTML and DOM. Also I want to know more about securing my webisite on the server and client side to malicious attacks.
