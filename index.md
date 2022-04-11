@@ -7,7 +7,7 @@
 3. [Class 3: HTML Lists, JS Control Flow, CSS Box Model](Code201/Class-03.md)
 4. [Class 4: HTML Links, JS Functions, and CSS Layout](Code201/Class-04.md)
 5. Assignment #5
-6. Assignment #6
+6. [Class 6: Object Literals and the Document Object Model](Code201/Class-06.md)
 7. Assignment #7
 8. Assignment #8
 9. Assignment #9
