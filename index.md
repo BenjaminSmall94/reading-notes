@@ -8,7 +8,7 @@
 4. [Class 4: HTML Links, JS Functions, and CSS Layout](Code201/Class-04.md)
 5. Assignment #5
 6. [Class 6: Object Literals and the Document Object Model](Code201/Class-06.md)
-7. Assignment #7
+7. [Class 7: Object-Oriented Programming, HTML Tables](Code201/Class-07.md)
 8. Assignment #8
 9. Assignment #9
 10. Assignment #10
