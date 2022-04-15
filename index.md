@@ -9,9 +9,9 @@
 5. Assignment #5
 6. [Class 6: Object Literals and the Document Object Model](Code201/Class-06.md)
 7. [Class 7: Object-Oriented Programming, HTML Tables](Code201/Class-07.md)
-8. Assignment #8
+8. [Class 8: CSS Layout](Code201/Class-08.md)
 9. Assignment #9
-10. Assignment #10
+10. [Class 10: Debugging](Code201/Class-10.md)
 11. Assignment #11
 12. Assignment #12
 13. Assignment #13
