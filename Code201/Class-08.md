@@ -30,3 +30,7 @@ If you are not using Flexbox or Grid, then (with a few exceptions) you are placi
 ### Chapter 15: Layout
 
 This is a repeat chapter from Class 4 refer to [Class 4](Class-04.md) for a more detailed look at Chapter 15
+
+## Things I want to know more about
+
+I really am just looking forward to getting more practice with CSS. I know I don't have to be a designer and it's not 100% up my wheel house, but have a visual eye for what looks pretty is valuable too and I have enjoyed working on that even though it's traditionally not my strong suit.
