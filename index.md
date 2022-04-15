@@ -6,7 +6,7 @@
 2. [Class 2: More Web Programming Basics](Code201/Class-02.md)
 3. [Class 3: HTML Lists, JS Control Flow, CSS Box Model](Code201/Class-03.md)
 4. [Class 4: HTML Links, JS Functions, and CSS Layout](Code201/Class-04.md)
-5. Assignment #5
+5. [Class 5: Images, Color, and Text](Code201/Class-05.md)
 6. [Class 6: Object Literals and the Document Object Model](Code201/Class-06.md)
 7. [Class 7: Object-Oriented Programming, HTML Tables](Code201/Class-07.md)
 8. [Class 8: CSS Layout](Code201/Class-08.md)
