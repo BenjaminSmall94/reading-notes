@@ -12,7 +12,7 @@
 8. [Class 8: CSS Layout](Code201/Class-08.md)
 9. [Class 9: Forms and JS Events](Code201/Class-09.md)
 10. [Class 10: Debugging](Code201/Class-10.md)
-11. Assignment #11
+11. [Class 11: Audio, Video, Images](Code201/Class-11.md)
 12. Assignment #12
 13. Assignment #13
 14. Assignment #14
