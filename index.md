@@ -13,7 +13,7 @@
 9. [Class 9: Forms and JS Events](Code201/Class-09.md)
 10. [Class 10: Debugging](Code201/Class-10.md)
 11. [Class 11: Audio, Video, Images](Code201/Class-11.md)
-12. Assignment #12
+12. [Class 12: Char.js and Canvas](Code201/Class-12.md)
 13. Assignment #13
 14. Assignment #14
 15. Assignment #15
