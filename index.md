@@ -15,7 +15,7 @@
 11. [Class 11: Audio, Video, Images](Code201/Class-11.md)
 12. [Class 12: Char.js and Canvas](Code201/Class-12.md)
 13. [Class 13: Local Storage for Web Applications](Code201/Class-13.md)
-14. [CSS Transforms, Transitions, and Animations & What Google Learned About Teams](Code201/Class-14.md)
+14. [Class 14: CSS Transforms, Transitions, and Animations & What Google Learned About Teams](Code201/Class-14.md)
 15. Assignment #15
 
 ## Code 102
