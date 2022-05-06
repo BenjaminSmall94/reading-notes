@@ -1,6 +1,23 @@
 # **Code Fellows Reading Notes**
 
-## Code 201
+## Code 301 - Intermediate Software Development
+
+1. [Hi](Code301/Class-01.md)
+2. TBD
+3. TBD
+4. TBD
+5. TBD
+6. TBD
+7. TBD
+8. TBD
+9. TBD
+10. TBD
+11. TBD
+12. TBD
+13. TBD
+14. TBD
+
+## Code 201 - Foundations of Software Development
 
 1. [Class 1: HTML, CSS, Javascript Refresher](Code201/Class-01.md)
 2. [Class 2: More Web Programming Basics](Code201/Class-02.md)
@@ -16,9 +33,8 @@
 12. [Class 12: Char.js and Canvas](Code201/Class-12.md)
 13. [Class 13: Local Storage for Web Applications](Code201/Class-13.md)
 14. [Class 14: CSS Transforms, Transitions, and Animations & What Google Learned About Teams](Code201/Class-14.md)
-15. Assignment #15
 
-## Code 102
+## Code 102 - Intro to Software Development
 
 1. [The Growth Mindset](Code102/GrowthMindset.md)
 2. [Markdown Syntax](Code102/MarkdownGuide.md)
