@@ -30,3 +30,7 @@ Props is short for properties and an is the vehicle by which React components pa
 ## Introducing JSX
 
 JSX is a syntax extension for JavaScript that allows for new datatypes as elements. Instead of separating logic and behavoir from UI, React combines the two and then separates items based on function/concerns. You can then embed any valid javascript expressions inside an element by wrapping them in curly brackets. JSX also prevents injection attacks since React DOM automatically escapes any embedded values that need to be escaped.
+
+## Things I Want to Know More About
+
+I just want to get into the technology and do some hands on practice. Especially after a lecture session I'll be good to go and get some great practice using this technology!
