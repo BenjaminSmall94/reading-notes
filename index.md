@@ -4,7 +4,7 @@
 
 ## Code 301 - Intermediate Software Development
 
-1. [Hi](Code301/Class-01.md)
+1. [Introduction to React and Components](Code301/Class-01.md)
 2. TBD
 3. TBD
 4. TBD
