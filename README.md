@@ -7,7 +7,7 @@ This page contains the Reading Notes of Benjamin Small for All Code Fellows Cour
 ## Code 301 - Intermediate Software Development
 
 1. [Introduction to React and Components](Code301/Class-01.md)
-2. TBD
+2. [State and Props](Code301/Class-02.md)
 3. TBD
 4. TBD
 5. TBD
