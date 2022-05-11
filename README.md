@@ -9,7 +9,7 @@ This page contains the Reading Notes of Benjamin Small for All Code Fellows Cour
 1. [Introduction to React and Components](Code301/Class-01.md)
 2. [State and Props](Code301/Class-02.md)
 3. [Passing Functions as Props](Code301/Class-03.md)
-4. TBD
+4. [React and Forms](Code301/Class-04.md)
 5. TBD
 6. TBD
 7. TBD
