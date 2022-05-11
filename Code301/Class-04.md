@@ -35,3 +35,5 @@ Bootstrap provides a nicely formatted form item with many nice features included
 There are many cool ways to force code to be displayed or not with either functions or inline operators. More information can be found [Here](https://reactjs.org/docs/conditional-rendering.html)
 
 ## Things I want to know more about
+
+I just want practice doing it. Bootstraps is a pretty cool tool that I'll just need to build familiarity with.
