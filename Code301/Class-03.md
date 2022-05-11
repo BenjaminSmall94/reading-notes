@@ -70,3 +70,7 @@ You can pass it down in the props object.
 
 4. How does the child component invoke a method that was passed to it from a parent component?
 Using the props object such as {this.props.increment()}
+
+## Things I want to know more about
+
+I spent a long time just researching file reading and writing of files from different environments. The import statements in React made me very curious how you would do that in different frameworks and I read enough to see how it is done via several different techniques. I am still curious more about that. I also read about UTF-8 and UTF-16 encoding.
