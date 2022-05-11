@@ -6,7 +6,7 @@
 
 1. [Introduction to React and Components](Code301/Class-01.md)
 2. [State and Props](Code301/Class-02.md)
-3. TBD
+3. [Passing Functions as Props](Code301/Class-03.md)
 4. TBD
 5. TBD
 6. TBD
