@@ -35,3 +35,7 @@
 ## API Keys
 
 I made accounts to all of the websites but need more information for the movieDB API application.
+
+## Things I want to know more about
+
+I can't wait to see all the different ways that the client can interact with a server to build secure and interactive/meaningful website.

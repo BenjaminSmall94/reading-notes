@@ -54,3 +54,7 @@
 3. How does pair programming work?
 
    One developer acts as the driver and one developer acts as the navigator. The driver actually types the code manages switching between files, as well as version control. The navigator instructs the driver on what do do focusing not so much on exactly what to type, but on what the code is doing. They also are responsible for researching unfamiliar areas.
+
+## Things I want to know more about
+
+I am very curious about all the different out of browser application you could build while using JavaScript and Node.js
