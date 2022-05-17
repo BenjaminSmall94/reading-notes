@@ -8,9 +8,9 @@
 2. [State and Props](Code301/Class-02.md)
 3. [Passing Functions as Props](Code301/Class-03.md)
 4. [React and Forms](Code301/Class-04.md)
-5. TBD
-6. TBD
-7. TBD
+5. [Putting it all Together](Code301/Class-05.md)
+6. [NODE.JS](Code301/Class-06.md)
+7. [Representational State Transfer](Code301/Class-07.md)
 8. TBD
 9. TBD
 10. TBD
