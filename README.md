@@ -13,7 +13,7 @@ This page contains the Reading Notes of Benjamin Small for All Code Fellows Cour
 5. [Putting it all Together](Code301/Class-05.md)
 6. [NODE.JS](Code301/Class-06.md)
 7. [Representational State Transfer](Code301/Class-07.md)
-8. TBD
+8. [APIs](Code301/Class-08.md)
 9. TBD
 10. TBD
 11. TBD
