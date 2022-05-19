@@ -32,3 +32,7 @@
 
 1. What do we have to do to make a module available?
    We need to determine which parts of the original module are "Public" or available to other modules. So you use a `module.export = ...`
+
+## Things I want to know more about
+
+I want to know more about using files in all environments. Like for instance does the `require()` only work in React Apps, the Node runtime environment? Or does it also work in the standard browswer JavaScript and everywhere you could potentially be referencing another file.

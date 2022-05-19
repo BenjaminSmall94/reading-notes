@@ -12,7 +12,7 @@
 6. [NODE.JS](Code301/Class-06.md)
 7. [Representational State Transfer](Code301/Class-07.md)
 8. [APIs](Code301/Class-08.md)
-9. TBD
+9. [Functional Programming](Code301/Class-09.md)
 10. TBD
 11. TBD
 12. TBD
