@@ -37,3 +37,7 @@
 
 6. What does the word ‘debugger’ do in your code?
    Places a breakpoint in your code.
+
+## Things I want to know more about
+
+I want to know more about the call stack and how it works with multi-threaded programs.
