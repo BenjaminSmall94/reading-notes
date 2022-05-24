@@ -15,7 +15,7 @@
 9. [Functional Programming](Code301/Class-09.md)
 10. [In Memory Stage](Code301/Class-10.md)
 11. [Mongo and Mongoose](Code301/Class-11.md)
-12. TBD
+12. [CRUD](Code301/Class-12.md)
 13. TBD
 14. TBD
 
