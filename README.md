@@ -19,7 +19,7 @@ This page contains the Reading Notes of Benjamin Small for All Code Fellows Cour
 11. [Mongo and Mongoose](Code301/Class-11.md)
 12. [CRUD](Code301/Class-12.md)
 13. [More CRUD](Code301/Class-13.md)
-14. TBD
+14. [Diversity & Inclusion in the Tech Industry](Code301/Class-14.md)
 
 ## Code 201 - Foundations of Software Development
 

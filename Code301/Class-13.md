@@ -13,7 +13,7 @@
 ## Speed Coding: Building a CRUP API
 
 1. What’s the relationship between REST and CRUD?
-   REST describes a server-client application that interacts with one another in an independent and intelligible way. CRUD describes the four most basic actions that occur between a client and a server. 
+   REST describes a server-client application that interacts with one another in an independent and intelligible way. CRUD describes the four most basic actions that occur between a client and a server.
 
 2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
    1. Setup dependencies/middleware
