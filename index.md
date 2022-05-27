@@ -18,6 +18,7 @@
 12. [CRUD](Code301/Class-12.md)
 13. [More CRUD](Code301/Class-13.md)
 14. [Diversity & Inclusion in the Tech Industry](Code301/Class-14.md)
+15. [Authentication](Code301/Class-15.md)
 
 ## Code 201 - Foundations of Software Development
 

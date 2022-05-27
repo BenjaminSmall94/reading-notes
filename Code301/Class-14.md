@@ -20,3 +20,7 @@
 
 3. Give an example of how a diverse company can serve a diverse user base or vise-versa.
    Having more women on a team allows the team to develop products that serve women better becuase they better understand what women require. The reading gave a similar example about left-handed people!
+
+## Things I want to know more about
+
+The best ways to encourage diversity of thought in technology.
