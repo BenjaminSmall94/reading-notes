@@ -7,6 +7,7 @@ This site serves as a central location to store and display all reading notes as
 ### Prework
 
 1. [The Command Line](Code401/Command_Line.md)
+2. [Intro to SQL](Code401/SQL_Intro)
 
 ## Code 301 - Intermediate Software Development
 
