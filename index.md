@@ -1,5 +1,7 @@
 # **Code Fellows Reading Notes**
 
+This site serves as a central location to store and display all reading notes associated with all Code Fellows courses taken by myself, Benjamin Small.
+
 ## Code 401 - Advanced Software Development
 
 ### Prework
