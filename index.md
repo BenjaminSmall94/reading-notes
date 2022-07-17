@@ -2,6 +2,10 @@
 
 ## Code 401 - Advanced Software Development
 
+### Prework
+
+1. [The Command Line](Code401/Command_Line.md)
+
 ## Code 301 - Intermediate Software Development
 
 1. [Introduction to React and Components](Code301/Class-01.md)
