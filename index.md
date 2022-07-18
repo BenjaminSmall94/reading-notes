@@ -4,6 +4,10 @@ This site serves as a central location to store and display all reading notes as
 
 ## Code 401 - Advanced Software Development
 
+### Classes
+
+1. [Intro to Python Course](Code401/Class-01.md)
+
 ### Prework
 
 1. [The Command Line](Code401/Command_Line.md)

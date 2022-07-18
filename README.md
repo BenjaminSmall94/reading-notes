@@ -4,15 +4,15 @@ This site serves as a central location to store and display all reading notes as
 
 ## Code 401 - Advanced Software Development
 
+### Classes
+
+1. [Intro to Python Course](Code401/Class-01.md)
+
 ### Prework
 
 1. [The Command Line](Code401/Command_Line.md)
 2. [Intro to SQL](Code401/SQL_Intro)
 3. [Growth Mindset](Code401/Growth_Mindset.md)
-
-### Classes
-
-1. [Intro to Python Course]
 
 ## Code 301 - Intermediate Software Development
 
