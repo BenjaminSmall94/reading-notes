@@ -1,8 +1,14 @@
 # **Code Fellows Reading Notes**
 
-This page contains the Reading Notes of Benjamin Small for All Code Fellows Courses Attended. He completed Code 102 March 31, 2022. Code 20 on April 29, 2022. He is currently enrolled in Code 301
+This site serves as a central location to store and display all reading notes associated with all Code Fellows courses taken by myself, Benjamin Small.
 
 ## Code 401 - Advanced Software Development
+
+### Prework
+
+1. [The Command Line](Code401/Command_Line.md)
+2. [Intro to SQL](Code401/SQL_Intro)
+3. [Growth Mindset](Code401/Growth_Mindset.md)
 
 ## Code 301 - Intermediate Software Development
 
@@ -65,4 +71,3 @@ He loves trying new food, playing team and individual sports (including disc gol
 ### **Contact Info**
 
 Benjamin Small can be reached by phone at *253-339-9261* or via email at <smallbenjamin94@gmail.com>
-
