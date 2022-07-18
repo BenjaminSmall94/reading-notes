@@ -10,6 +10,10 @@ This site serves as a central location to store and display all reading notes as
 2. [Intro to SQL](Code401/SQL_Intro)
 3. [Growth Mindset](Code401/Growth_Mindset.md)
 
+### Classes
+
+1. [Intro to Python Course]
+
 ## Code 301 - Intermediate Software Development
 
 1. [Introduction to React and Components](Code301/Class-01.md)
