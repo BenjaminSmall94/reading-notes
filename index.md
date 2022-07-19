@@ -7,6 +7,7 @@ This site serves as a central location to store and display all reading notes as
 ### Classes
 
 1. [Intro to Python Course](Code401/Class-01.md)
+2. [Testing and Modules](Code401/Class-02.md)
 
 ### Other Readings
 
