@@ -9,6 +9,7 @@ This site serves as a central location to store and display all reading notes as
 1. [Intro to Python Course](Code401/Class-01.md)
 2. [Testing and Modules](Code401/Class-02.md)
 3. [FileIO and Exceptions](Code401/Class-03.md)
+4. [Classes, Objects, Recursion, and Testing](Code401/Class-04.md)
 
 ### Other Readings
 
