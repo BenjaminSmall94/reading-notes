@@ -11,6 +11,7 @@ This site serves as a central location to store and display all reading notes as
 3. [FileIO and Exceptions](Code401/Class-03.md)
 4. [Classes, Objects, Recursion, and Testing](Code401/Class-04.md)
 5. [Linked Lists](Code401/Class-05.md)
+6. [Ten Thousand Game 1](Code401/Class-06.md)
 
 ### Other Readings
 
