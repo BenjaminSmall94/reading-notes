@@ -1,4 +1,4 @@
-# Ten Thousand Game 2
+# Ten Thousand Game 3
 
 [Home](../index.md)
 
