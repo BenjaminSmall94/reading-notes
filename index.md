@@ -13,6 +13,7 @@ This site serves as a central location to store and display all reading notes as
 5. [Linked Lists](Code401/Class-05.md)
 6. [Ten Thousand Game 1](Code401/Class-06.md)
 7. [Ten Thousand Game 2](Code401/Class-07.md)
+8. [Ten Thousand Game 3](Code401/Class-08.md)
 
 ### Other Readings
 
