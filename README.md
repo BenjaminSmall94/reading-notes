@@ -14,6 +14,7 @@ This site serves as a central location to store and display all reading notes as
 6. [Ten Thousand Game 1](Code401/Class-06.md)
 7. [Ten Thousand Game 2](Code401/Class-07.md)
 8. [Ten Thousand Game 3](Code401/Class-08.md)
+9. [Jupyter Lab and Numpy](Code401/Class-11.md)
 
 ### Other Readings
 
