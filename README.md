@@ -16,6 +16,7 @@ This site serves as a central location to store and display all reading notes as
 8. [Ten Thousand Game 3](Code401/Class-08.md)
 9. [Jupyter Lab and Numpy](Code401/Class-11.md)
 10. [Pandas](Code401/Class-12.md)
+11. [Linear Regressions](Code401/Class-13.md)
 
 ### Other Readings
 
@@ -23,9 +24,9 @@ This site serves as a central location to store and display all reading notes as
 
 ### Prework
 
-1. [The Command Line](Code401/Command_Line.md)
-2. [Intro to SQL](Code401/SQL_Intro)
-3. [Growth Mindset](Code401/Growth_Mindset.md)
+1. [The Command Line](Code401/prework/Command_Line.md)
+2. [Intro to SQL](Code401/prework/SQL_Intro)
+3. [Growth Mindset](Code401/preworkd/Growth_Mindset.md)
 
 ## Code 301 - Intermediate Software Development
 
