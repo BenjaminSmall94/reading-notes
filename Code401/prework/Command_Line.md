@@ -1,6 +1,6 @@
 # Command Line Practice
 
-[Home](../index.md)
+[Home](../../index.md)
 
 ## The Command Line - Intro
 

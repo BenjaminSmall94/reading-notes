@@ -1,6 +1,6 @@
 # SQL Intro
 
-[Home](../index.md)
+[Home](../../index.md)
 
 ## Key Insights
 
