@@ -17,6 +17,7 @@ This site serves as a central location to store and display all reading notes as
 9. [Jupyter Lab and Numpy](Code401/Class-11.md)
 10. [Pandas](Code401/Class-12.md)
 11. [Linear Regressions](Code401/Class-13.md)
+12. [Matplotlib](Code401/Class-14.md)
 
 ### Other Readings
 
