@@ -18,6 +18,7 @@ This site serves as a central location to store and display all reading notes as
 10. [Pandas](Code401/Class-12.md)
 11. [Linear Regressions](Code401/Class-13.md)
 12. [Matplotlib](Code401/Class-14.md)
+13. [Trees](Code401/Class-15.md)
 
 ### Other Readings
 
