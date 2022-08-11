@@ -22,6 +22,7 @@ This site serves as a central location to store and display all reading notes as
 14. [Serverless Computing](Code401/Class-16.md)
 15. [Web Scraping](Code401/Class-17.md)
 16. [Cryptography](Code401/Class-18.md)
+17. [Automation](Code401/Class-19.md)
 
 ### Other Readings
 
