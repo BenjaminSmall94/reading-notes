@@ -24,6 +24,7 @@ This site serves as a central location to store and display all reading notes as
 16. [Cryptography](Code401/Class-18.md)
 17. [Automation](Code401/Class-19.md)
 18. [Django](Code401/Class-26.md)
+19. [Django Models](Code401/Class-27.md)
 
 ### Other Readings
 
