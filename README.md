@@ -25,6 +25,7 @@ This site serves as a central location to store and display all reading notes as
 17. [Automation](Code401/Class-19.md)
 18. [Django](Code401/Class-26.md)
 19. [Django Models](Code401/Class-27.md)
+20. [Django Crud and Forms](Code401/Class-28.md)
 
 ### Other Readings
 
