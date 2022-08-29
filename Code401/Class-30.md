@@ -1,4 +1,4 @@
-# Introduction to Python Course
+# Hashtables
 
 [Home](../index.md)
 
