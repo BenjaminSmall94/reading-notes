@@ -31,6 +31,7 @@ This site serves as a central location to store and display all reading notes as
 23. [Django & Docker](Code401/Class-31.md)
 24. [Permissions & Postgresql](Code401/Class-32.md)
 25. [Authentication & Production Servers](Code401/Class-33.md)
+26. [API Deployment](Code401/Class-34.md)
 
 ### Other Readings
 
