@@ -33,6 +33,7 @@ This site serves as a central location to store and display all reading notes as
 25. [Authentication & Production Servers](Code401/Class-33.md)
 26. [API Deployment](Code401/Class-34.md)
 27. [Graphs](Code401/Class-35.md)
+28. [DSA Review](Code401/Class-36.md)
 
 ### Other Readings
 
