@@ -36,6 +36,7 @@ This site serves as a central location to store and display all reading notes as
 28. [DSA Review](Code401/Class-36.md)
 29. [React 1](Code401/Class-37.md)
 30. [React 2](Code401/Class-38.md)
+31. [React 4](Code401/Class-41.md)
 
 ### Other Readings
 

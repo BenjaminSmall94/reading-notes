@@ -1,4 +1,4 @@
-# React 1
+# React 2
 
 [Home](../index.md)
 
