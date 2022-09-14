@@ -37,6 +37,7 @@ This site serves as a central location to store and display all reading notes as
 29. [React 1](Code401/Class-37.md)
 30. [React 2](Code401/Class-38.md)
 31. [React 4](Code401/Class-41.md)
+32. [Pythonisms](Code401/Class-42.md)
 
 ### Other Readings
 
